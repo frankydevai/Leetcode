@@ -3,3 +3,4 @@ def containsDuplicate(self, nums: list[int]) -> bool:
         return True
     else:
         return False
+
